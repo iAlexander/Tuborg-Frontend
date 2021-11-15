@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "users": 1,
+  "_currentTask": "t05",
+  "isEndGame": false,
+  "lastTaskUpd": 1586601205808,
+  "isRunUpdateTask": false,
+  "taskText": "The game is over"
+}
